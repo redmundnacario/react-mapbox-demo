@@ -1,0 +1,254 @@
+[
+  {
+    "Date": "Nov. 04",
+    "Time": "06 GMT",
+    "CLatitude": 6,
+    "CLongitude": 150.2,
+    "MaxSpeed": 45,
+    "Pressure": -999,
+    "Category": "TS"
+  },
+  {
+    "Date": "Nov. 04",
+    "Time": "12 GMT",
+    "CLatitude": 6.1,
+    "CLongitude": 148.3,
+    "MaxSpeed": 50,
+    "Pressure": -999,
+    "Category": "TS"
+  },
+  {
+    "Date": "Nov. 04",
+    "Time": "18 GMT",
+    "CLatitude": 6.5,
+    "CLongitude": 147.3,
+    "MaxSpeed": 65,
+    "Pressure": -999,
+    "Category": "TS"
+  },
+  {
+    "Date": "Nov. 05",
+    "Time": "00 GMT",
+    "CLatitude": 6.4,
+    "CLongitude": 145.9,
+    "MaxSpeed": 75,
+    "Pressure": -999,
+    "Category": "TY"
+  },
+  {
+    "Date": "Nov. 05",
+    "Time": "06 GMT",
+    "CLatitude": 6.4,
+    "CLongitude": 144.5,
+    "MaxSpeed": 75,
+    "Pressure": -999,
+    "Category": "TY"
+  },
+  {
+    "Date": "Nov. 05",
+    "Time": "12 GMT",
+    "CLatitude": 6.8,
+    "CLongitude": 143,
+    "MaxSpeed": 105,
+    "Pressure": -999,
+    "Category": "TY"
+  },
+  {
+    "Date": "Nov. 05",
+    "Time": "18 GMT",
+    "CLatitude": 7.1,
+    "CLongitude": 141.2,
+    "MaxSpeed": 120,
+    "Pressure": -999,
+    "Category": "TY"
+  },
+  {
+    "Date": "Nov. 06",
+    "Time": "00 GMT",
+    "CLatitude": 7.4,
+    "CLongitude": 139.6,
+    "MaxSpeed": 150,
+    "Pressure": -999,
+    "Category": "STY"
+  },
+  {
+    "Date": "Nov. 06",
+    "Time": "06 GMT",
+    "CLatitude": 7.6,
+    "CLongitude": 138,
+    "MaxSpeed": 155,
+    "Pressure": -999,
+    "Category": "STY"
+  },
+  {
+    "Date": "Nov. 06",
+    "Time": "12 GMT",
+    "CLatitude": 7.9,
+    "CLongitude": 136.2,
+    "MaxSpeed": 160,
+    "Pressure": -999,
+    "Category": "STY"
+  },
+  {
+    "Date": "Nov. 06",
+    "Time": "18 GMT",
+    "CLatitude": 8.2,
+    "CLongitude": 134.4,
+    "MaxSpeed": 175,
+    "Pressure": -999,
+    "Category": "STY"
+  },
+  {
+    "Date": "Nov. 07",
+    "Time": "00 GMT",
+    "CLatitude": 8.6,
+    "CLongitude": 132.8,
+    "MaxSpeed": 175,
+    "Pressure": -999,
+    "Category": "STY"
+  },
+  {
+    "Date": "Nov. 07",
+    "Time": "06 GMT",
+    "CLatitude": 9.3,
+    "CLongitude": 131.1,
+    "MaxSpeed": 175,
+    "Pressure": -999,
+    "Category": "STY"
+  },
+  {
+    "Date": "Nov. 07",
+    "Time": "12 GMT",
+    "CLatitude": 10.2,
+    "CLongitude": 129.1,
+    "MaxSpeed": 190,
+    "Pressure": -999,
+    "Category": "STY"
+  },
+  {
+    "Date": "Nov. 07",
+    "Time": "18 GMT",
+    "CLatitude": 10.6,
+    "CLongitude": 127,
+    "MaxSpeed": 195,
+    "Pressure": -999,
+    "Category": "STY"
+  },
+  {
+    "Date": "Nov. 08",
+    "Time": "00 GMT",
+    "CLatitude": 11,
+    "CLongitude": 124.8,
+    "MaxSpeed": 185,
+    "Pressure": -999,
+    "Category": "STY"
+  },
+  {
+    "Date": "Nov. 08",
+    "Time": "06 GMT",
+    "CLatitude": 11.4,
+    "CLongitude": 122.6,
+    "MaxSpeed": 165,
+    "Pressure": -999,
+    "Category": "STY"
+  },
+  {
+    "Date": "Nov. 08",
+    "Time": "12 GMT",
+    "CLatitude": 11.8,
+    "CLongitude": 120.6,
+    "MaxSpeed": 155,
+    "Pressure": -999,
+    "Category": "STY"
+  },
+  {
+    "Date": "Nov. 08",
+    "Time": "18 GMT",
+    "CLatitude": 12.4,
+    "CLongitude": 118.1,
+    "MaxSpeed": 145,
+    "Pressure": -999,
+    "Category": "TY"
+  },
+  {
+    "Date": "Nov. 09",
+    "Time": "00 GMT",
+    "CLatitude": 12.3,
+    "CLongitude": 116.2,
+    "MaxSpeed": 135,
+    "Pressure": -999,
+    "Category": "TY"
+  },
+  {
+    "Date": "Nov. 09",
+    "Time": "06 GMT",
+    "CLatitude": 13.5,
+    "CLongitude": 114.8,
+    "MaxSpeed": 120,
+    "Pressure": -999,
+    "Category": "TY"
+  },
+  {
+    "Date": "Nov. 09",
+    "Time": "12 GMT",
+    "CLatitude": 14.5,
+    "CLongitude": 113.2,
+    "MaxSpeed": 115,
+    "Pressure": -999,
+    "Category": "TY"
+  },
+  {
+    "Date": "Nov. 09 ",
+    "Time": "18 GMT",
+    "CLatitude": 15.5,
+    "CLongitude": 111.4,
+    "MaxSpeed": 105,
+    "Pressure": -999,
+    "Category": "TY"
+  },
+  {
+    "Date": "Nov. 10",
+    "Time": "00 GMT",
+    "CLatitude": 16.3,
+    "CLongitude": 110.2,
+    "MaxSpeed": 100,
+    "Pressure": -999,
+    "Category": "TY"
+  },
+  {
+    "Date": "Nov. 10",
+    "Time": "06 GMT",
+    "CLatitude": 17.8,
+    "CLongitude": 109,
+    "MaxSpeed": 90,
+    "Pressure": -999,
+    "Category": "TY"
+  },
+  {
+    "Date": "Nov. 10",
+    "Time": "12 GMT",
+    "CLatitude": 19.3,
+    "CLongitude": 108.1,
+    "MaxSpeed": 85,
+    "Pressure": -999,
+    "Category": "TY"
+  },
+  {
+    "Date": "Nov. 10",
+    "Time": "18 GMT",
+    "CLatitude": 20.5,
+    "CLongitude": 107.3,
+    "MaxSpeed": 75,
+    "Pressure": -999,
+    "Category": "TY"
+  },
+  {
+    "Date": "Nov. 11",
+    "Time": "00 GMT",
+    "CLatitude": 21.8,
+    "CLongitude": 107.2,
+    "MaxSpeed": 70,
+    "Pressure": -999,
+    "Category": "TS"
+  }
+ ]
